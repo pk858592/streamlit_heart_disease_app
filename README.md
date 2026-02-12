@@ -5,7 +5,7 @@ A Machine Learning web application built using **Streamlit** that predicts the l
 ---
 
 ## 🚀 Live Demo
-(Deploy link here after deployment)
+https://appheartdiseaseapp-wurappcyrcsi7bkevwcyy3u.streamlit.app/
 
 ---
 
